@@ -65,5 +65,5 @@ Notice that you didn't need a queueing system to achieve guaranteed delivery.
 
 ## Want to now more about Akka.NET?
 
-Check out my other repository with Akka.NET code samples: https://github.com/voltcode/AkkaNetSamples
-Visit Akka.NET home page and review Akka.NET Persistence documentation http://getakka.net/
+* Check out my other repository with Akka.NET code samples: https://github.com/voltcode/AkkaNetSamples
+* Visit Akka.NET home page and review Akka.NET Persistence documentation http://getakka.net/
