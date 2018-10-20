@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Voltcode.AkkaNetPersistenceSamples.Accounting.Bank")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("VOLTCODE.COM")]
 [assembly: AssemblyProduct("Voltcode.AkkaNetPersistenceSamples.Accounting.Bank")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyCopyright("Copyright ©  2018 VOLTCODE.COM")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
